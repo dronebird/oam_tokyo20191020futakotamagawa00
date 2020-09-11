@@ -1,6 +1,7 @@
 # oam_tokyo20191020futakotamagawa00
 2019年台風19号 二子玉川 空撮データ
 
+<img width="1440" alt="スクリーンショット 2020-09-11 13 01 25" src="https://user-images.githubusercontent.com/416977/92856938-fee03180-f42e-11ea-9c5d-fe34080ac67c.png">
 
 
 * ひなたGIS: https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#W9IMfAKQg9QJ
